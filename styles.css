@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2a9d8f;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+footer {
+  background-color: #264653;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+form input, form button {
+  padding: 10px;
+  margin: 5px 0;
+  width: 100%;
+  max-width: 300px;
+}
+
+form button {
+  background-color: #2a9d8f;
+  color: white;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #264653;
+}
+
+#under-construction-message {
+  text-align: center;
+  padding: 50px;
+}
