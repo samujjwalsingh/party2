@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shipping Policy - Freshers Party 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      padding: 20px;
+      background-color: #ffffff;
+      max-width: 800px;
+      margin: 50px auto;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    h1 {
+      text-align: center;
+      color: #2a9d8f;
+    }
+    p {
+      line-height: 1.6;
+      color: #333;
+    }
+    footer {
+      background-color: #264653;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    footer a {
+      color: #f4f4f4;
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Shipping Policy</h1>
+    <p>Thank you for purchasing your ticket to Freshers Party 2025!</p>
+
+    <p><strong>Ticket Delivery:</strong></p>
+    <ul>
+      <li>After successful payment, your event ticket will be sent to your registered <strong>Email ID</strong> within 1-2 hours.</li>
+      <li>Additionally, we will also send a copy of your ticket to your <strong>WhatsApp number</strong> (provided during registration).</li>
+      <li>Please ensure that your email and WhatsApp number are entered correctly during registration.</li>
+    </ul>
+
+    <p><strong>Delivery Timeline:</strong></p>
+    <ul>
+      <li>Normal delivery time is within 2 hours after payment confirmation.</li>
+      <li>In rare cases, due to technical issues, it may take up to 24 hours.</li>
+    </ul>
+
+    <p><strong>Need Assistance?</strong></p>
+    <p>If you do not receive your ticket within the specified time, please contact us immediately at 
+      <a href="mailto:samraj234432@gmail.com">samraj234432@gmail.com</a> 
+      or call/WhatsApp us at <a href="tel:+918864095021">+91 88640 95021</a>.</p>
+
+    <p>We are excited to see you at the Freshers Party 2025! 🎉</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Freshers Party. All rights reserved.</p>
+    <p>
+      <a href="privacy-policy.html">Privacy Policy</a> |
+      <a href="refund-policy.html">Refund Policy</a> |
+      <a href="shipping-policy.html">Shipping Policy</a> |
+      <a href="contact.html">Contact Us</a>
+    </p>
+  </footer>
+
+</body>
+</html>
